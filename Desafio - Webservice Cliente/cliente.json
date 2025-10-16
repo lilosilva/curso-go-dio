@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Paula Costa",
+        "email": "ana.paula@exemplo.com",
+        "endereco": "",
+        "cidade": "",
+        "cep": "",
+        "telefone": "",
+        "cpf": ""
+    },
+    {
+        "id": 2,
+        "nome": "Bruno Henrique Santos",
+        "email": "bruno.santos@exemplo.com",
+        "endereco": "Avenida Central, 456",
+        "cidade": "Rio de Janeiro",
+        "cep": "20000-000",
+        "telefone": "21912345678",
+        "cpf": "987.654.321-09"
+    }
+]
